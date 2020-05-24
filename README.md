@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <body>
 
@@ -11,17 +11,17 @@
 <p> <b>Student Number:</b> s3851460 </p>
 <p> <b>Email: </b> s3851460@student.rmit.edu.au </p>
 <h2> Background Information </h2>
-<p> My name is Cameron, I'm 22, I'm an Australian from Sydney. <br /> I graduated High School in 2015 and orignally went to study at Western Sydney Univeristy, although I didn't enjoy what i was doing so I went into full time work for 2 years before returning univeristy to study this course. </br>
+<p> My name is Cameron, I'm 22, I'm an Australian from Sydney. <br /> I graduated High School in 2015 and orignally went to study at Western Sydney University, although I didn't enjoy what i was doing so I went into full time work for 2 years before returning univeristy to study this course.
 My favorite sports are Soccer (Football), Basketball and Mixed Martial Arts, I played soccer to a high level and almost had the opportunity to study and play in the USA, I also competed in Karate where I placed 3rd in a national tournament before quitting to focus on soccer more. </p>
 <h2> Interest in IT </h2>
 <p> My interest in IT comes from a hobby of my computer which I built in 2016, I enjoy playing with my computer, whether its building and rebuilding it, playing games and just talking to friends via things such as Discord.<br /> 
 This sparked my interest in learning IT more and I am looking into exploring a career where I can be around computers and doing what I enjoy. <br> 
 I chose to come to RMIT as while I was looking at options to return to study I looked at online options and saw that Open Univeristies offered courses at RMIT and when I researched the univeristy I saw that it is well regarded. <br>
-I expect to learn many things from my studies based around all things IT, I also hope to learn my passion for what sort of career I might look into doing, as currently I'm not really sure what to do. </br> </p>
+I expect to learn many things from my studies based around all things IT, I also hope to learn my passion for what sort of career I might look into doing, as currently I'm not really sure what to do. </p>
 <h2> Ideal Job </h2>
 <p> My Ideal Job in an IT field would have something to do with another area of study that I really enjoy which is business, a job such as a IT business analyst would be the kind of job that I look towards after studying. <br />
 <p><a href="https://ca.indeed.com/viewjob?jk=0ae1651d545d6bdb&tk=1e4100dsvbi8o800&from=serp&vjs=3">Link to job advertisment</a></p>
-<p> This job is called IT Business Senior Analyst, and is located in Ontario, Canada, the reason I chose this job is because it combines my IT studies and also a passion for business that I also have. <br / > 
+<p> This job is called IT Business Senior Analyst, and is located in Ontario, Canada, the reason I chose this job is because it combines my IT studies and also a passion for business that I also have. 
 The reason I chose a job located in Canada is, I have always wanted to travel to other countries and experience the world, and I have done research into the IT field in Canada and how it's expanding and demand is high, these two factors combined mean that I would look into a job such as this at some point in my career. <br>
 The position is one where you are required to use experience and knowledge about technology and translate that into what a business would need and how to implement that. <br> 
 The experience needed for this role is stated at 5-8 years in the field, which means this job is one that would come further down the line after spending some time learning the industry, however I would have the degree needed to apply for this job after completing my studies. <br>
